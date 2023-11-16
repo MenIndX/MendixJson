@@ -1,4 +1,5 @@
-[
+{
+  "Equipments": [
     {
       "Number": 10000010,
       "Description": "Example test 10",
@@ -36,175 +37,166 @@
       "EndDate": "01/02/2024"
     },
     {
-    "Number": 10000012,
-    "Description": "Example test 12",
-    "Location":
-  {
-     "Street":  "LouisenPark", 
-     "House":   "987", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321985",
-   "Category": "A",
-   "Status": "Not Active",
-   "Serial": "9999912",
-   "Plant": "1000",
-   "FuncLoc": "100012000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000012,
+      "Description": "Example test 12",
+      "Location": {
+        "Street": "LouisenPark",
+        "House": "987",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321985",
+      "Category": "A",
+      "Status": "Not Active",
+      "Serial": "9999912",
+      "Plant": "1000",
+      "FuncLoc": "100012000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000013,
-    "Description": "Example test 13",
-    "Location":
-  {
-     "Street":  "LouisenPark", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "A",
-   "Status": "Active",
-   "Serial": "9999913",
-   "Plant": "1000",
-   "FuncLoc": "100013000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000013,
+      "Description": "Example test 13",
+      "Location": {
+        "Street": "LouisenPark",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "A",
+      "Status": "Active",
+      "Serial": "9999913",
+      "Plant": "1000",
+      "FuncLoc": "100013000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000014,
-    "Description": "Example test 10",
-    "Location":
-  {
-     "Street":  "LouisenPark", 
-     "House":   "444", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "A",
-   "Status": "Active",
-   "Serial": "9999914",
-   "Plant": "1000",
-   "FuncLoc": "100014000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000014,
+      "Description": "Example test 10",
+      "Location": {
+        "Street": "LouisenPark",
+        "House": "444",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "A",
+      "Status": "Active",
+      "Serial": "9999914",
+      "Plant": "1000",
+      "FuncLoc": "100014000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000015,
-    "Description": "Example test 15",
-    "Location":
-  {
-     "Street":  "LouisenPark", 
-     "House":   "888", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "A",
-   "Status": "Active",
-   "Serial": "9999915",
-   "Plant": "1000",
-   "FuncLoc": "100015000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000015,
+      "Description": "Example test 15",
+      "Location": {
+        "Street": "LouisenPark",
+        "House": "888",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "A",
+      "Status": "Active",
+      "Serial": "9999915",
+      "Plant": "1000",
+      "FuncLoc": "100015000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000016,
-    "Description": "Example test 16",
-    "Location":
-  {
-     "Street":  "Street number 10", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "A",
-   "Status": "Active",
-   "Serial": "9999916",
-   "Plant": "1000",
-   "FuncLoc": "100015000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000016,
+      "Description": "Example test 16",
+      "Location": {
+        "Street": "Street number 10",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "A",
+      "Status": "Active",
+      "Serial": "9999916",
+      "Plant": "1000",
+      "FuncLoc": "100015000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000017,
-    "Description": "Example test 17",
-    "Location":
-  {
-     "Street":  "Street number 10", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "A",
-   "Status": "Active",
-   "Serial": "9999917",
-   "Plant": "1000",
-   "FuncLoc": "100017000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000017,
+      "Description": "Example test 17",
+      "Location": {
+        "Street": "Street number 10",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "A",
+      "Status": "Active",
+      "Serial": "9999917",
+      "Plant": "1000",
+      "FuncLoc": "100017000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000018,
-    "Description": "Example test 18",
-    "Location":
-  {
-     "Street":  "Street number 10", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "C",
-   "Status": "Active",
-   "Serial": "9999918",
-   "Plant": "1000",
-   "FuncLoc": "100018000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000018,
+      "Description": "Example test 18",
+      "Location": {
+        "Street": "Street number 10",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "C",
+      "Status": "Active",
+      "Serial": "9999918",
+      "Plant": "1000",
+      "FuncLoc": "100018000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000019,
-    "Description": "Example test 19",
-    "Location":
-  {
-     "Street":  "Street number 10", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "B",
-   "Status": "Not Active",
-   "Serial": "9999919",
-   "Plant": "1000",
-   "FuncLoc": "100019000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000019,
+      "Description": "Example test 19",
+      "Location": {
+        "Street": "Street number 10",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "B",
+      "Status": "Not Active",
+      "Serial": "9999919",
+      "Plant": "1000",
+      "FuncLoc": "100019000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     },
     {
-    "Number": 10000020,
-    "Description": "Example test 20",
-    "Location":
-  {
-     "Street":  "Street number 10", 
-     "House":   "1010", 
-     "City":    "Mannheim" 
-  },
-   "Phone": "+34654321987",
-   "Category": "B",
-   "Status": "Active",
-   "Serial": "9999920",
-   "Plant": "1000",
-   "FuncLoc": "100020000010",
-   "CreationDate": "16/11/2023",
-   "InitDate": "16/11/2023",
-   "EndDate": "01/01/2024"
+      "Number": 10000020,
+      "Description": "Example test 20",
+      "Location": {
+        "Street": "Street number 10",
+        "House": "1010",
+        "City": "Mannheim"
+      },
+      "Phone": "+34654321987",
+      "Category": "B",
+      "Status": "Active",
+      "Serial": "9999920",
+      "Plant": "1000",
+      "FuncLoc": "100020000010",
+      "CreationDate": "16/11/2023",
+      "InitDate": "16/11/2023",
+      "EndDate": "01/01/2024"
     }
-  
-]
+  ]
+}
